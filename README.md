@@ -5,5 +5,6 @@
  * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
  * Scratch
     * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
+    * [ScratchX Leap Motion](https://coderdojonijmegen.github.io/scratchx-leapmotion/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
