@@ -3,6 +3,7 @@
  * [Instructies voor mentoren](https://coderdojonijmegen.github.io/instructies_voor_mentoren)
  * [mBlock](https://coderdojonijmegen.github.io/mblock) 
  * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
- * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
+ * Scratch
+    * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
