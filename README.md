@@ -8,4 +8,4 @@
     * [ScratchX Leap Motion](https://coderdojonijmegen.github.io/scratchx-leapmotion/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
- * [Coding-for-Web](https://coderdojonijmegen.github.io/coding-for-web/)
+ * [Coding-for-Web-PHP](https://coderdojonijmegen.github.io/coding-for-web-php/)
