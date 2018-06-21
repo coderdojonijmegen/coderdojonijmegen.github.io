@@ -9,3 +9,4 @@
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
  * [Coding-for-Web-PHP](https://coderdojonijmegen.github.io/coding-for-web-php/)
+ * [Löve 2D shooter](https://coderdojonijmegen.github.io/love2d-shooter/)
