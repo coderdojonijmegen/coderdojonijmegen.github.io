@@ -4,6 +4,7 @@
  * [mBlock](https://coderdojonijmegen.github.io/mblock) 
  * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
  * Scratch
+    * [Scratch 3 Video Sensing](https://coderdojonijmegen.github.io/scratch3/)
     * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
     * [ScratchX Leap Motion](https://coderdojonijmegen.github.io/scratchx-leapmotion/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
