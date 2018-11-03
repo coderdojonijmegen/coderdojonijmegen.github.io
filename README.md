@@ -1,16 +1,17 @@
 # coderdojonijmegen.github.io
-[coderdojonijmegen.github.io](https://coderdojonijmegen.github.io) is de verzamelplaats voor de instructies ontwikkeld/vertaald door Stichting CoderDojo Nijmagen.
- * [Instructies voor mentoren](https://coderdojonijmegen.github.io/instructies_voor_mentoren)
+[coderdojonijmegen.github.io](https://coderdojonijmegen.github.io) is de verzamelplaats voor de instructies ontwikkeld/vertaald door Stichting CoderDojo Nijmegen.
+ * [Coding-for-Web-PHP](https://coderdojonijmegen.github.io/coding-for-web-php/)
+ * [Löve 2D shooter](https://coderdojonijmegen.github.io/love2d-shooter/)
  * [mBlock](https://coderdojonijmegen.github.io/mblock) 
- * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
+ * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
+ * [Ninja-Chat](https://coderdojonijmegen.github.io/ninja-chat/)
+ * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * Scratch
     * [Scratch 3 Video Sensing](https://coderdojonijmegen.github.io/scratch3/)
     * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
     * [ScratchX Leap Motion](https://coderdojonijmegen.github.io/scratchx-leapmotion/)
- * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
- * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
- * [Coding-for-Web-PHP](https://coderdojonijmegen.github.io/coding-for-web-php/)
- * [Löve 2D shooter](https://coderdojonijmegen.github.io/love2d-shooter/)
+ * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
+ * [Instructies voor mentoren](https://coderdojonijmegen.github.io/instructies_voor_mentoren)
 
 
 <hr>
