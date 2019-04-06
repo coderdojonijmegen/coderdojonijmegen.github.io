@@ -5,6 +5,7 @@
  * [mBlock](https://coderdojonijmegen.github.io/mblock) 
  * [Micro:bit](https://coderdojonijmegen.github.io/microbit/) 
  * [Ninja-Chat](https://coderdojonijmegen.github.io/ninja-chat/)
+ * [Ninja Tag](https://coderdojonijmegen.github.io/ninja-game-client/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
  * Scratch
     * [Scratch 3 Video Sensing](https://coderdojonijmegen.github.io/scratch3/)
