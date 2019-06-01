@@ -8,11 +8,11 @@
  * [Ninja-Chat](https://coderdojonijmegen.github.io/ninja-chat/)
  * [Ninja Tag](https://coderdojonijmegen.github.io/ninja-game-client/)
  * [Ozobot](https://coderdojonijmegen.github.io/ozobot/)
- * [Verkeerslicht](https://coderdojonijmegen.github.io/verkeerslicht/)
  * Scratch
     * [Scratch 3 Video Sensing](https://coderdojonijmegen.github.io/scratch3/)
     * [Scratch Art](https://coderdojonijmegen.github.io/scratch-art/)
     * [ScratchX Leap Motion](https://coderdojonijmegen.github.io/scratchx-leapmotion/)
+ * [Verkeerslicht](https://coderdojonijmegen.github.io/verkeerslicht/)
  * [Wordpress](https://coderdojonijmegen.github.io/wordpress/) 
  * [Instructies voor mentoren](https://coderdojonijmegen.github.io/instructies_voor_mentoren)
 
