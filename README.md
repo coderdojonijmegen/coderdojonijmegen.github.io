@@ -20,7 +20,7 @@
 <hr>
 <div style="text-align: center">
    <div>
-      <a href="https://coderdojo-nijmegen.nl"><img src="https://coderdojo-nijmegen.nl/wp-content/uploads/2014/12/logo_coderdojo_nijmegen-e1419242204527.png" /></a>
+      <a href="https://coderdojo-nijmegen.nl"><img src="logo_coderdojo_nijmegen.png" /></a>
    </div><br />
    <div>
       <a href="https://github.com/coderdojonijmegen/coderdojonijmegen.github.io">
